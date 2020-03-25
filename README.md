@@ -1,8 +1,9 @@
 # Challenge-2
-Bij deze opdracht heb ik ervoor gekozen, om ruimtelijke kleuren te gebruiken, vandaar de paarse tinten. Ik heb mijn data over twee pagina's verspreid, omdat ik de voorraden beter op een andere pagina vond passen inplaats van bij de voertuig informatie.
+Voor deze opdracht heb ik een analoge klok gemaakt, waarop de tijd te zien is. Ook is op de pagina de datum te zien.
 
-Met dit dashboard wil ik bereiken dat de personen in dit voertuig informatie hebben over de het voertuig, hoe de reis verloopt en hoeveel voorraden ze nog hebben.
+## Twee thema's
+Ik heb gekozen voor twee thema's, namelijk een donker en een licht thema. Op deze manier duid ik aan of het overdag of 's nachts is. Bij het lichte thema is er gebruikt gemaakt van een witte achtergrond met donkerblauwe accenten op de pagina. En bij het donkere thema wordt de achtergrond donkerblauw met witte accenten.
 
-## Het menu
-Op de mobiele site heb ik gekozen voor een icon-menu onderaan de pagina die fixed is, zodat de gebruiker altijd gemakkelijk van pagina kan veranderen.
-Bij de desktop versie heb ik een verticaal menu aan de linker kant gemaakt, voor een duidelijk overzicht.
+## Breakpoints
+Verder heb ik drie breakpoints gebruikt in deze opdracht, namelijk op 600px, 1200px en 1800px. Bij 600px wordt de datum in een andere lay-out getoond.
+Bij 1200px wordt de klok groter en zal de datum weer een andere lay-out aannemen. Ook zal de tekst groter worden. Als laatst bij de 1800px, zal de tekst alleen nog wat groter worden.

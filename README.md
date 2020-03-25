@@ -7,3 +7,6 @@ Ik heb gekozen voor twee thema's, namelijk een donker en een licht thema. Op dez
 ## Breakpoints
 Verder heb ik drie breakpoints gebruikt in deze opdracht, namelijk op 600px, 1200px en 1800px. Bij 600px wordt de datum in een andere lay-out getoond.
 Bij 1200px wordt de klok groter en zal de datum weer een andere lay-out aannemen. Ook zal de tekst groter worden. Als laatst bij de 1800px, zal de tekst alleen nog wat groter worden.
+
+## Notifcaties
+Ik heb twee notificaties in de klok verwerkt. Als het 8 uur in de ochtend is kom er een pop-up met de tekst dat het tijd is om op staan. En als het 11 uur in de avond is komt er een pop-up met de tekst dat het tijd is om naar bed te gaan.
